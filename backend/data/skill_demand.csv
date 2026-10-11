@@ -1,0 +1,66 @@
+year,skill,demand_index,category
+2022,Generative AI,12,AI
+2023,Generative AI,18,AI
+2024,Generative AI,25,AI
+2025,Generative AI,38,AI
+2026,Generative AI,52,AI
+2022,Machine Learning,35,AI
+2023,Machine Learning,41,AI
+2024,Machine Learning,45,AI
+2025,Machine Learning,50,AI
+2026,Machine Learning,55,AI
+2022,Cloud Computing,31,Cloud
+2023,Cloud Computing,38,Cloud
+2024,Cloud Computing,42,Cloud
+2025,Cloud Computing,47,Cloud
+2026,Cloud Computing,52,Cloud
+2022,React,36,Web
+2023,React,42,Web
+2024,React,44,Web
+2025,React,47,Web
+2026,React,50,Web
+2022,Python,47,Programming
+2023,Python,54,Programming
+2024,Python,55,Programming
+2025,Python,57,Programming
+2026,Python,59,Programming
+2022,Java,60,Programming
+2023,Java,57,Programming
+2024,Java,56,Programming
+2025,Java,55,Programming
+2026,Java,54,Programming
+2022,Basic HTML/CSS,58,Web
+2023,Basic HTML/CSS,46,Web
+2024,Basic HTML/CSS,44,Web
+2025,Basic HTML/CSS,42,Web
+2026,Basic HTML/CSS,39,Web
+2022,AWS,29,Cloud
+2023,AWS,34,Cloud
+2024,AWS,39,Cloud
+2025,AWS,44,Cloud
+2026,AWS,49,Cloud
+2022,Docker,24,DevOps
+2023,Docker,29,DevOps
+2024,Docker,34,DevOps
+2025,Docker,39,DevOps
+2026,Docker,45,DevOps
+2022,SQL,48,Data
+2023,SQL,52,Data
+2024,SQL,54,Data
+2025,SQL,55,Data
+2026,SQL,57,Data
+2022,Data Science,28,Data
+2023,Data Science,34,Data
+2024,Data Science,39,Data
+2025,Data Science,45,Data
+2026,Data Science,51,Data
+2022,Cybersecurity,25,Security
+2023,Cybersecurity,28,Security
+2024,Cybersecurity,32,Security
+2025,Cybersecurity,37,Security
+2026,Cybersecurity,43,Security
+2022,Node.js,28,Web
+2023,Node.js,34,Web
+2024,Node.js,38,Web
+2025,Node.js,42,Web
+2026,Node.js,46,Web
