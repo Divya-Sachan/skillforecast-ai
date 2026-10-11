@@ -4,7 +4,7 @@ import {LayoutDashboard,TrendingUp,Target,Map,FileText,Settings,Search,Bell,Spar
 import {ResponsiveContainer,AreaChart,Area,LineChart,Line,XAxis,YAxis,CartesianGrid,Tooltip} from 'recharts'
 import './styles.css'
 
-const api=async(path,opt={})=>{const r=await fetch('https://skillforecast-ai-ltnf-9p288j2jr-divya-sachan.vercel.app' + path,{headers:{'Content-Type':'application/json'},...opt});if(!r.ok)throw Error((await r.json()).detail||'Request failed');return r.json()}
+const api=async(path,opt={})=>{const r=await fetch('https://skillforecast-ai-c4qe.vercel.app' + path,{headers:{'Content-Type':'application/json'},...opt});if(!r.ok)throw Error((await r.json()).detail||'Request failed');return r.json()}
 const demo=[
 {skill:'Generative AI',values:[12,18,25,38,52],current:52,predicted:65,trend:'Fast Rising',change:25,category:'AI'},
 {skill:'Machine Learning',values:[35,41,45,50,55],current:55,predicted:60,trend:'Rising',change:9.1,category:'AI'},
