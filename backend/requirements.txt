@@ -1,10 +1,6 @@
 fastapi==0.115.6
 uvicorn[standard]==0.34.0
 pandas==2.2.3
-<<<<<<< HEAD
-numpy==2.2.1
-=======
 numpy==2.0.2
->>>>>>> 0f70c49 (Initial SkillForecast AI project)
 scikit-learn==1.6.0
 pydantic==2.10.4
